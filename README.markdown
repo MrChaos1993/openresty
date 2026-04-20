@@ -60,7 +60,6 @@ is as simple as running the following commands:
 ```bash
 sudo dnf install perl dos2unix mercurial
 ```
-sudo apt install perl dos2unix mercurial build-essential wget git
 
 [Back to TOC](#table-of-contents)
 
